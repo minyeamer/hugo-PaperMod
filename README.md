@@ -26,6 +26,19 @@ The [demo](https://adityatelange.github.io/hugo-PaperMod/) includes a lot of doc
 
 ---
 
+## Installation
+
+Clone this repo into your `themes` directory of your **hugo** website:
+```
+git clone https://github.com/minyeamer/hugo-PaperMod themes/PaperMod
+```
+Or even better, add this repository as a submodule of your **hugo** website, if you are using `git` for it:
+```
+git submodule add https://github.com/minyeamer/hugo-PaperMod themes/PaperMod
+```
+
+---
+
 ## Features/Mods 💥
 
 -   Uses Hugo's asset generator with pipelining, fingerprinting, bundling and minification by default.
